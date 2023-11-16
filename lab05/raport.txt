@@ -1,0 +1,29 @@
+Czytelnik:
+Jan Kowalski
+Adres: 
+ul. Kawiory 17, Krakow
+Ksiazki wypozyczone: 
+Boleslaw Prus, Lalka
+Adam Mickiewicz, Dziady
+
+
+
+
+Czytelnik:
+Piotr Nowak
+Adres: 
+ul. Wiejska 1, Warszawa
+Ksiazki wypozyczone: 
+Henryk Sienkiewicz, Quo Vadis
+
+
+
+
+Czytelnik:
+Adam Abacki
+Adres: 
+ul. Piotrkowska 22 Lodz
+Ksiazki wypozyczone: 
+Zofia Nałkowska, Medaliony
+Boleslaw Prus, Lalka
+
